@@ -1,2 +1,2 @@
 print("lalalallallall")
-print("lalllalalalall")
+print("lalllalalalll")
